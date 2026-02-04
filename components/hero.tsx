@@ -38,7 +38,7 @@ export default function Hero() {
         <div className="relative w-full max-w-full aspect-[9/6]">
           <div className="absolute top-0 left-0 w-[70%] h-[70%]">
             <Image
-              src="/images/img-2.jpg"
+              src="/images/spa.png"
               alt="Spa"
               fill
               className="object-cover rounded-lg"
@@ -47,7 +47,7 @@ export default function Hero() {
           </div>
           <div className="absolute bottom-0 right-0 w-[70%] h-[70%] border-1 border-border rounded-lg overflow-hidden">
             <Image
-              src="/images/img-1.png"
+              src="/images/swimming.jpg"
               alt="Spa"
               fill
               className="object-cover"
