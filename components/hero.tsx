@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen w-full flex flex-col lg:flex-row items-center justify-between gap-10 px-[5%] lg:px-[12%]">
+    <section className="mt-20 justify-center w-full flex flex-col lg:flex-row items-center gap-10 py-32 px-[5%] lg:px-[12%]">
       {/* Left Content */}
       <motion.div
         initial={{ opacity: 0, y: 30 }}

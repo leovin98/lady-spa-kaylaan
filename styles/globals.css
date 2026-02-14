@@ -102,3 +102,19 @@
     line-height: 1.75;
   }
 }
+
+.section-padding {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+@media (min-width: 1000px) {
+  .section-padding {
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+}
